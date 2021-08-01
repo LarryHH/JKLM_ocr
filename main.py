@@ -9,7 +9,6 @@ import random
 from time import sleep
 import pyautogui
 import keyboard
-
   
 def config_load(fp):
     config = configparser.ConfigParser()
